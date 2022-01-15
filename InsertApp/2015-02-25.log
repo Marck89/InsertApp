@@ -1,0 +1,45 @@
+25-Feb-2015 8:59:09 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+25-Feb-2015 8:59:10 INFO  - 
+elementi trovati: 6
+
+25-Feb-2015 8:59:23 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (CONFOWN.PK_DEVICES) violated
+
+
+25-Feb-2015 8:59:26 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (CONFOWN.PK_DEVICES) violated
+
+
+25-Feb-2015 8:59:26 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (CONFOWN.PK_DEVICES) violated
+
+
+25-Feb-2015 8:59:28 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (CONFOWN.PK_DEVICES) violated
+
+
+25-Feb-2015 8:59:31 INFO  - 
+Inserimento avvenuto con successo
+
+25-Feb-2015 10:21:59 INFO  - 
+FILE TROVATO: E:\Copia di Copia di elenco primi 93 parcometri approvati_test2.csv
+
+25-Feb-2015 10:22:00 INFO  - 
+ERRORE: The process cannot access the file 'E:\Copia di Copia di elenco primi 93 parcometri approvati_test2.csv' because it is being used by another process.
+
+25-Feb-2015 10:22:01 INFO  - 
+elementi trovati: 0
+
+25-Feb-2015 10:22:46 INFO  - 
+FILE TROVATO: E:\Copia di Copia di elenco primi 93 parcometri approvati_test2.csv
+
+25-Feb-2015 10:22:47 INFO  - 
+elementi trovati: 15945
+
+25-Feb-2015 10:23:47 INFO  - 
+FILE TROVATO: E:\Copia di Copia di elenco primi 93 parcometri approvati_test2.csv
+
+25-Feb-2015 10:23:47 INFO  - 
+elementi trovati: 9
+
+25-Feb-2015 10:23:58 INFO  - 
+Inserimento avvenuto con successo
+

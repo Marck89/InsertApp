@@ -1,0 +1,159 @@
+24-Feb-2015 10:26:35 INFO  - 
+FILE TROVATO: C:\cvs_insert2.csv
+
+24-Feb-2015 10:28:15 INFO  - 
+FILE TROVATO: C:\cvs_insert2.csv
+
+24-Feb-2015 10:34:54 INFO  - 
+FILE TROVATO: C:\cvs_insert2.csv
+
+24-Feb-2015 10:34:56 INFO  - 
+elementi trovati: 799
+
+24-Feb-2015 11:01:27 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 11:01:28 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 11:03:33 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 11:14:03 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 11:14:05 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 11:14:16 INFO  - ERRORE NELL'INSERT: ORA-02291: integrity constraint (SG_CONFOWN.FK_DEVICES_01) violated - parent key not found
+
+
+24-Feb-2015 11:14:18 INFO  - ERRORE NELL'INSERT: ORA-02291: integrity constraint (SG_CONFOWN.FK_DEVICES_01) violated - parent key not found
+
+
+24-Feb-2015 11:14:19 INFO  - ERRORE NELL'INSERT: ORA-02291: integrity constraint (SG_CONFOWN.FK_DEVICES_01) violated - parent key not found
+
+
+24-Feb-2015 11:14:20 INFO  - ERRORE NELL'INSERT: ORA-02291: integrity constraint (SG_CONFOWN.FK_DEVICES_01) violated - parent key not found
+
+
+24-Feb-2015 11:14:21 INFO  - ERRORE NELL'INSERT: ORA-02291: integrity constraint (SG_CONFOWN.FK_DEVICES_01) violated - parent key not found
+
+
+24-Feb-2015 11:14:23 INFO  - ERRORE NELL'INSERT: ORA-02291: integrity constraint (SG_CONFOWN.FK_DEVICES_01) violated - parent key not found
+
+
+24-Feb-2015 11:14:23 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 11:14:57 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 11:22:52 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 11:22:53 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 11:23:28 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 11:32:52 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 11:32:53 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 11:33:11 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 11:33:11 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 11:33:30 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 12:02:34 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 12:02:34 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 12:02:45 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 12:17:09 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 12:17:09 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 12:17:12 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 12:20:50 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 12:20:50 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 12:20:55 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 12:21:42 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 12:21:42 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 12:21:44 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 12:39:04 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 12:39:04 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 12:39:08 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (SG_CONFOWN.UN_DEVICES_01) violated
+
+
+24-Feb-2015 12:39:08 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (SG_CONFOWN.UN_DEVICES_01) violated
+
+
+24-Feb-2015 12:39:08 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (SG_CONFOWN.UN_DEVICES_01) violated
+
+
+24-Feb-2015 12:39:08 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (SG_CONFOWN.UN_DEVICES_01) violated
+
+
+24-Feb-2015 12:39:08 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (SG_CONFOWN.UN_DEVICES_01) violated
+
+
+24-Feb-2015 12:39:08 INFO  - ERRORE NELL'INSERT: ORA-00001: unique constraint (SG_CONFOWN.UN_DEVICES_01) violated
+
+
+24-Feb-2015 12:39:08 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 12:39:33 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 12:42:09 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 12:42:09 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 12:42:11 INFO  - 
+Inserimento avvenuto con successo
+
+24-Feb-2015 3:53:10 INFO  - 
+FILE TROVATO: E:\Copia di elenco primi 93 parcometri approvati_TEST.csv
+
+24-Feb-2015 3:53:10 INFO  - 
+elementi trovati: 6
+
+24-Feb-2015 3:53:19 INFO  - 
+Inserimento avvenuto con successo
+
